@@ -1,0 +1,11 @@
+-ATTEDIT
+N
+N
+*
+DATE2
+*
+6/27/25
+6/30/25
+(load "C:/Users/HannahLayton/OneDrive - PRS/Attachments/Python/2025/AutoCAD/ChangeDateAttributeWidth.lsp")
+SetOneAttrWidth
+QSAVE
